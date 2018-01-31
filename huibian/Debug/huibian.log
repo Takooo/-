@@ -1,0 +1,41 @@
+﻿  huibian.cpp
+e:\vs_code\huibian\huibian\huibian.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(251): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(252): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(457): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(458): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(459): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(666): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(667): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(910): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(911): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(1150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(1151): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(1152): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\huibian\huibian\huibian.cpp(1153): warning C4101: “O”: 未引用的局部变量
+e:\vs_code\huibian\huibian\huibian.cpp(1305): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  huibian.vcxproj -> E:\VS_Code\huibian\Debug\huibian.exe
